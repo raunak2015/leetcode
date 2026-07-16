@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/raunak2015/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunak2015/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
