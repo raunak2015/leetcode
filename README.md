@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/raunak2015/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak2015/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+## String
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
+## Counting
+|  |
+| ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
