@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/raunak2015/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/raunak2015/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/raunak2015/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak2015/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Two Pointers
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunak2015/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -77,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 <!---LeetCode Topics End-->
