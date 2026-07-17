@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/raunak2015/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak2015/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/raunak2015/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raunak2015/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2255-count-prefixes-of-a-given-string](https://github.com/raunak2015/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 ## Counting
 |  |
