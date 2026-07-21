@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak2015/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/raunak2015/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunak2015/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raunak2015/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2057-smallest-index-with-equal-value](https://github.com/raunak2015/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/raunak2015/leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raunak2015/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
