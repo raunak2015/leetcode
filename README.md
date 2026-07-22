@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunak2015/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/raunak2015/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raunak2015/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1550-three-consecutive-odds](https://github.com/raunak2015/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/raunak2015/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2057-smallest-index-with-equal-value](https://github.com/raunak2015/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
