@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/raunak2015/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1550-three-consecutive-odds](https://github.com/raunak2015/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/raunak2015/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/raunak2015/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2057-smallest-index-with-equal-value](https://github.com/raunak2015/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
