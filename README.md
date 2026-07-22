@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0217-contains-duplicate](https://github.com/raunak2015/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak2015/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/raunak2015/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/raunak2015/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/raunak2015/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/raunak2015/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
