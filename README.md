@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak2015/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/raunak2015/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/raunak2015/leetcode/tree/master/0575-distribute-candies) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0575-distribute-candies](https://github.com/raunak2015/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -52,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak2015/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/raunak2015/leetcode/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak2015/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/raunak2015/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunak2015/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/raunak2015/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -90,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak2015/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Sliding Window
