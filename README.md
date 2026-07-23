@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/raunak2015/leetcode/tree/master/1550-three-consecutive-odds) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/raunak2015/leetcode/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/raunak2015/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1995-count-special-quadruplets](https://github.com/raunak2015/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/raunak2015/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raunak2015/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/raunak2015/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak2015/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak2015/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1995-count-special-quadruplets](https://github.com/raunak2015/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Enumeration
+|  |
+| ------- |
+| [1995-count-special-quadruplets](https://github.com/raunak2015/leetcode/tree/master/1995-count-special-quadruplets) |
 <!---LeetCode Topics End-->
