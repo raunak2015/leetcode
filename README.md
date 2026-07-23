@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/raunak2015/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raunak2015/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0896-monotonic-array](https://github.com/raunak2015/leetcode/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/raunak2015/leetcode/tree/master/0922-sort-array-by-parity-ii) |
