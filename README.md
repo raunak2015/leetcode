@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/raunak2015/leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/raunak2015/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raunak2015/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raunak2015/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak2015/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raunak2015/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Sliding Window
 |  |
 | ------- |
