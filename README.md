@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raunak2015/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raunak2015/leetcode/tree/master/0035-search-insert-position) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/raunak2015/leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak2015/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/raunak2015/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/raunak2015/leetcode/tree/master/1995-count-special-quadruplets) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/raunak2015/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
