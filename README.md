@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/raunak2015/leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/raunak2015/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak2015/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/raunak2015/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raunak2015/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Sliding Window
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/raunak2015/leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raunak2015/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/raunak2015/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak2015/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/raunak2015/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raunak2015/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
