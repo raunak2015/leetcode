@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/raunak2015/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/raunak2015/leetcode/tree/master/1025-divisor-game) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak2015/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raunak2015/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,8 +229,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/raunak2015/leetcode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/raunak2015/leetcode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
