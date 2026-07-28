@@ -2,11 +2,9 @@ class Solution {
 public:
     vector<int> numberGame(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        vector<int> ans;
-        for(int i = 1;i<nums.size();i+=2){
-            ans.push_back(nums[i]);
-            ans.push_back(nums[i-1]);
+        for(int i = 0;i<nums.size();i+=2){
+            swap(nums[i], nums[i + 1]);
         }
-        return ans;
+        return nums;
     }
 };
