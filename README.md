@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raunak2015/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/raunak2015/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
