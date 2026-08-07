@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/raunak2015/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2974-minimum-number-game](https://github.com/raunak2015/leetcode/tree/master/2974-minimum-number-game) |
+| [3311-ant-on-the-boundary](https://github.com/raunak2015/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/raunak2015/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunak2015/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raunak2015/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3311-ant-on-the-boundary](https://github.com/raunak2015/leetcode/tree/master/3311-ant-on-the-boundary) |
 ## Segment Tree
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/raunak2015/leetcode/tree/master/2974-minimum-number-game) |
+| [3311-ant-on-the-boundary](https://github.com/raunak2015/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
