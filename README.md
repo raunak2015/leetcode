@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/raunak2015/leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/raunak2015/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/raunak2015/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/raunak2015/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raunak2015/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Counting Sort
