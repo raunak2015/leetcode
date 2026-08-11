@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/raunak2015/leetcode/tree/master/2974-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/raunak2015/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Hash Table
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/raunak2015/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/raunak2015/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raunak2015/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting Sort
 |  |
 | ------- |
