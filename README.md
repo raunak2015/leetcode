@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raunak2015/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raunak2015/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Counting Sort
 |  |
@@ -295,4 +296,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/raunak2015/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1877-find-followers-count](https://github.com/raunak2015/leetcode/tree/master/1877-find-followers-count) |
 | [1942-primary-department-for-each-employee](https://github.com/raunak2015/leetcode/tree/master/1942-primary-department-for-each-employee) |
+## Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
