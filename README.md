@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/raunak2015/leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak2015/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/raunak2015/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/raunak2015/leetcode/tree/master/1765-merge-in-between-linked-lists) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raunak2015/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -326,5 +327,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak2015/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/raunak2015/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak2015/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
