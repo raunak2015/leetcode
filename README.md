@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/raunak2015/leetcode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/raunak2015/leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/raunak2015/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/raunak2015/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak2015/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1995-count-special-quadruplets](https://github.com/raunak2015/leetcode/tree/master/1995-count-special-quadruplets) |
 | [2057-smallest-index-with-equal-value](https://github.com/raunak2015/leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/raunak2015/leetcode/tree/master/0605-can-place-flowers) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/raunak2015/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raunak2015/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/raunak2015/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raunak2015/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
