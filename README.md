@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/raunak2015/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/raunak2015/leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raunak2015/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
