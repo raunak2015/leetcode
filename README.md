@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raunak2015/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/raunak2015/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raunak2015/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/raunak2015/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/raunak2015/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raunak2015/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/raunak2015/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/raunak2015/leetcode/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
