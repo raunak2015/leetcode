@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak2015/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/raunak2015/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/raunak2015/leetcode/tree/master/1765-merge-in-between-linked-lists) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/raunak2015/leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/raunak2015/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raunak2015/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
