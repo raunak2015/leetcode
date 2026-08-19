@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak2015/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunak2015/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/raunak2015/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/raunak2015/leetcode/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunak2015/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/raunak2015/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak2015/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
