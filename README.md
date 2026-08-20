@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raunak2015/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/raunak2015/leetcode/tree/master/0036-valid-sudoku) |
 | [0075-sort-colors](https://github.com/raunak2015/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak2015/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak2015/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/raunak2015/leetcode/tree/master/0036-valid-sudoku) |
 | [0138-copy-list-with-random-pointer](https://github.com/raunak2015/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/raunak2015/leetcode/tree/master/0217-contains-duplicate) |
@@ -343,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/raunak2015/leetcode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/raunak2015/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
