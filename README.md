@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raunak2015/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/raunak2015/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/raunak2015/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raunak2015/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raunak2015/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raunak2015/leetcode/tree/master/0075-sort-colors) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/raunak2015/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raunak2015/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raunak2015/leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/raunak2015/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raunak2015/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raunak2015/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
