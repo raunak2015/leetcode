@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raunak2015/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/raunak2015/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/raunak2015/leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/raunak2015/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raunak2015/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/raunak2015/leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/raunak2015/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/raunak2015/leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak2015/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/raunak2015/leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/raunak2015/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raunak2015/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raunak2015/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raunak2015/leetcode/tree/master/0074-search-a-2d-matrix) |
