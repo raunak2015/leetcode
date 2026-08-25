@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/raunak2015/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak2015/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1995-count-special-quadruplets](https://github.com/raunak2015/leetcode/tree/master/1995-count-special-quadruplets) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/raunak2015/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2057-smallest-index-with-equal-value](https://github.com/raunak2015/leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak2015/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/raunak2015/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/raunak2015/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raunak2015/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raunak2015/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/raunak2015/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/raunak2015/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 ## Quicksort
 |  |
