@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/raunak2015/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/raunak2015/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/raunak2015/leetcode/tree/master/2652-sum-multiples) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak2015/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/raunak2015/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3908-valid-digit-number](https://github.com/raunak2015/leetcode/tree/master/3908-valid-digit-number) |
