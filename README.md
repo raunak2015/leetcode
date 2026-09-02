@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/raunak2015/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunak2015/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak2015/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/raunak2015/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3875-construct-uniform-parity-array-i](https://github.com/raunak2015/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/raunak2015/leetcode/tree/master/3908-valid-digit-number) |
 ## Sliding Window
 |  |
