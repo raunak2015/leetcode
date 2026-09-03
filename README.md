@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/raunak2015/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak2015/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/raunak2015/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/raunak2015/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/raunak2015/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak2015/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/raunak2015/leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak2015/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/raunak2015/leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raunak2015/leetcode/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/raunak2015/leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/raunak2015/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/raunak2015/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -402,4 +405,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/raunak2015/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak2015/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/raunak2015/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
