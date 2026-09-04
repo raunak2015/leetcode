@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/raunak2015/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3875-construct-uniform-parity-array-i](https://github.com/raunak2015/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/raunak2015/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/raunak2015/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raunak2015/leetcode/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3311-ant-on-the-boundary](https://github.com/raunak2015/leetcode/tree/master/3311-ant-on-the-boundary) |
+| [3903-smallest-stable-index-i](https://github.com/raunak2015/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Segment Tree
 |  |
 | ------- |
