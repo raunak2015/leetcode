@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2404-most-frequent-even-element](https://github.com/raunak2015/leetcode/tree/master/2404-most-frequent-even-element) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/raunak2015/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3941-password-strength](https://github.com/raunak2015/leetcode/tree/master/3941-password-strength) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/raunak2015/leetcode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak2015/leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/raunak2015/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3941-password-strength](https://github.com/raunak2015/leetcode/tree/master/3941-password-strength) |
 ## Counting
 |  |
 | ------- |
