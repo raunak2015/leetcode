@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak2015/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/raunak2015/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/raunak2015/leetcode/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/raunak2015/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/raunak2015/leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/raunak2015/leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 ## Bit Manipulation
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/raunak2015/leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/raunak2015/leetcode/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/raunak2015/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/raunak2015/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/raunak2015/leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak2015/leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
