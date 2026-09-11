@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/raunak2015/leetcode/tree/master/2974-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/raunak2015/leetcode/tree/master/3311-ant-on-the-boundary) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak2015/leetcode/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raunak2015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/raunak2015/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/raunak2015/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/raunak2015/leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak2015/leetcode/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2404-most-frequent-even-element](https://github.com/raunak2015/leetcode/tree/master/2404-most-frequent-even-element) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raunak2015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak2015/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/raunak2015/leetcode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3941-password-strength](https://github.com/raunak2015/leetcode/tree/master/3941-password-strength) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/raunak2015/leetcode/tree/master/1995-count-special-quadruplets) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raunak2015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/raunak2015/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Trie
 |  |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/raunak2015/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/raunak2015/leetcode/tree/master/0509-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/raunak2015/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
