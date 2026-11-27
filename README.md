@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/raunak2015/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak2015/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/raunak2015/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/raunak2015/leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/raunak2015/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/raunak2015/leetcode/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raunak2015/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/raunak2015/leetcode/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/raunak2015/leetcode/tree/master/0498-diagonal-traverse) |
+| [0682-baseball-game](https://github.com/raunak2015/leetcode/tree/master/0682-baseball-game) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/raunak2015/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raunak2015/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/raunak2015/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/raunak2015/leetcode/tree/master/0682-baseball-game) |
 | [1072-next-greater-node-in-linked-list](https://github.com/raunak2015/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
