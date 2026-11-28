@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/raunak2015/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/raunak2015/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/raunak2015/leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0946-validate-stack-sequences](https://github.com/raunak2015/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/raunak2015/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak2015/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/raunak2015/leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/raunak2015/leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/raunak2015/leetcode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/raunak2015/leetcode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/raunak2015/leetcode/tree/master/0946-validate-stack-sequences) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak2015/leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/raunak2015/leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/raunak2015/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/raunak2015/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/raunak2015/leetcode/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/raunak2015/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/raunak2015/leetcode/tree/master/1072-next-greater-node-in-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/raunak2015/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/raunak2015/leetcode/tree/master/2573-remove-nodes-from-linked-list) |
